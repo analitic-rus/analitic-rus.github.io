@@ -1,0 +1,384 @@
+Uri: http://analitic-rus.space/
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/index.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/index.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/index.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-stat.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-stat.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/valuta.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\valuta.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/nauka.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\nauka.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/kontakt.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\kontakt.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/raznoe.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\raznoe.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/soobschen.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\soobschen.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.narod.ru/
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index-1.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/globalnye-sily-y-processy-upravlyayuschie-mirom.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\globalnye-sily-y-processy-upravlyayuschie-mirom.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/texty-2006-2007/2006-12-03-pronacpro.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\texty-2006-2007\2006-12-03-pronacpro.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/texty-2006-2007/2007-01-17-prostabfond.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\texty-2006-2007\2007-01-17-prostabfond.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/obschestvo-i-gosudarstvo-2010-h-godov.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\obschestvo-i-gosudarstvo-2010-h-godov.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/metody-torgovly-na-finansovyh-rynkah.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\metody-torgovly-na-finansovyh-rynkah.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/kapitlizm-i-socializm-v-rossii.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\kapitlizm-i-socializm-v-rossii.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/kadrovye-sistemy-v-obschestve-i-gosudarstve.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\kadrovye-sistemy-v-obschestve-i-gosudarstve.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/finansovyi-i-realnyi-biznes-i-gosupravlenie.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\finansovyi-i-realnyi-biznes-i-gosupravlenie.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/matrica-igry-ukraina-i-mir.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\matrica-igry-ukraina-i-mir.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/dvijenie-ceny-na-valutnom-rynke.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\dvijenie-ceny-na-valutnom-rynke.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/sistemotehnika-biznesa.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\sistemotehnika-biznesa.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/torgovlja-na-finansovyh-rynkah.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\torgovlja-na-finansovyh-rynkah.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/raznoe-s/pro-sestroretsk/pesok-dobycha.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\raznoe-s\pro-sestroretsk\pesok-dobycha.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/upravlenie-mirom.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\upravlenie-mirom.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/Vesty-17.pdf
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\Vesty-17.pdf
+Content Type: application/pdf
+
+Uri: http://www.analitic-rus.narod.ru/
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index-2.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/prakticheskiy-metod-vybora.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\prakticheskiy-metod-vybora.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/vybory-2012.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-2012.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/vybory-v-gosdumu-2011.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-v-gosdumu-2011.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/mnogomernye-virtual-finasy.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\mnogomernye-virtual-finasy.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/informacia-primenenie.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\informacia-primenenie.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/upr-fin-mathematic.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\upr-fin-mathematic.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/index2.mht
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index2.mht.html
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/vybor-prezident-20080302.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybor-prezident-20080302.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/index.files/image001.png
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.files\image001.png
+Content Type: image/png
+
+Uri: http://analitic-rus.space/index.files/image002.png
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.files\image002.png
+Content Type: image/png
+
+Uri: http://analitic-rus.space/index.files/image003.png
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.files\image003.png
+Content Type: image/png
+
+Uri: http://analitic-rus.space/index.files/image004.png
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index.files\image004.png
+Content Type: image/png
+
+Uri: http://bs.yandex.ru/resource/watch.js
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\resource\watch.js
+Content Type: application/x-javascript
+
+Uri: https://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=narod_total/
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\V13byandex_ru\ru\CP1251\tmsec=narod_total\index.htm.gif
+Content Type: image/gif
+
+Uri: http://analitic-rus.space/text-stat.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-stat.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-stat.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-stat.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/text-stat.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-stat.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/index.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\index-3.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/resume.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\resume.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/futbol-professionaly-i-experty.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\futbol-professionaly-i-experty.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/futbol-professionaly-i-lubiteli.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\futbol-professionaly-i-lubiteli.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/razvitie-upravlenia.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\razvitie-upravlenia.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/vyshee-obraz-2007.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vyshee-obraz-2007.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/part-edin-ros-2007.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\part-edin-ros-2007.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/biznes-organizacya.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\biznes-organizacya.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/futbol-zenit-20070501.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\futbol-zenit-20070501.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/econ-perspekt-ros.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\econ-perspekt-ros.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/ideologia-edin-ros.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\ideologia-edin-ros.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/market-manager.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\market-manager.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/futbol-zenit.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\futbol-zenit.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/lgoty-dengi.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\lgoty-dengi.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/rur-eur-usd.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\rur-eur-usd.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/prof-futbol.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\prof-futbol.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/text-s/econom-analiz.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\econom-analiz.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/valuta.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\valuta.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/nauka.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\nauka.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/raznoe.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\raznoe.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/raznoe.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\raznoe.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/raznoe.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\raznoe.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.narod.ru/text-s/matrica-igry-ukraina-i-mir.htm
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\matrica-igry-ukraina-i-mir-1.htm
+Content Type: text/html
+
+Uri: https://ktostroit.ru/news/216992/
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\news\216992\index.htm
+Content Type: text/html
+
+Uri: http://analitic-rus.space/raznoe-s/pro-sestroretsk/pesok-dobycha-f/image001.jpg
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\raznoe-s\pro-sestroretsk\pesok-dobycha-f\image001.jpg
+Content Type: image/jpeg
+
+Uri: http://analitic-rus.space/raznoe-s/pro-sestroretsk/pesok-dobycha-f/image002.jpg
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\raznoe-s\pro-sestroretsk\pesok-dobycha-f\image002.jpg
+Content Type: image/jpeg
+
+Uri: http://analitic-rus.space/text-s/prakticheskiy-metod-vybora.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\prakticheskiy-metod-vybora.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/prakticheskiy-metod-vybora.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\prakticheskiy-metod-vybora.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/text-s/prakticheskiy-metod-vybora.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\prakticheskiy-metod-vybora.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/vybory-2012.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-2012.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/vybory-2012.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-2012.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/text-s/vybory-2012.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-2012.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/vybory-v-gosdumu-2011.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-v-gosdumu-2011.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/vybory-v-gosdumu-2011.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-v-gosdumu-2011.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/text-s/vybory-v-gosdumu-2011.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\vybory-v-gosdumu-2011.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/informacia-primenenie.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\informacia-primenenie.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/informacia-primenenie.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\informacia-primenenie.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/text-s/informacia-primenenie.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\informacia-primenenie.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: https://mc.yandex.ru/watch/107613/1
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\watch\107613\1.gif
+Content Type: image/gif
+
+Uri: http://analitic-rus.space/resume.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\resume.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/resume.files/themedata.thmx
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\resume.files\themedata.thmx
+Content Type: application/vnd.ms-officetheme
+
+Uri: http://analitic-rus.space/resume.files/colorschememapping.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\resume.files\colorschememapping.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/rur-eur-usd.files/filelist.xml
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\rur-eur-usd.files\filelist.xml
+Content Type: text/xml
+
+Uri: http://analitic-rus.space/text-s/rur-eur-usd.files/image002.gif
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\rur-eur-usd.files\image002.gif
+Content Type: image/gif
+
+Uri: http://analitic-rus.space/text-s/rur-eur-usd.files/image004.gif
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\text-s\rur-eur-usd.files\image004.gif
+Content Type: image/gif
+
+Uri: https://www.pochta.ru/errors/404.html
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\errors\404.html
+Content Type: text/html
+
+Uri: https://top.mail.ru/Rating/Science-Info/Today/Visitors/12.html?from=jumpfrom
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\Rating\Science-Info\Today\Visitors\12.html
+Content Type: text/html
+
+Uri: https://top-fwz1.mail.ru/counter2?id=878618;ver=20
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\counter2.gif
+Content Type: image/gif
+
+Uri: https://top-fwz1.mail.ru/counter?id=878618;t=223;l=1;ver=20
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\counter.gif
+Content Type: image/gif
+
+Uri: https://www.rbc.ru/tags/?tag=%D1%E5%F1%F2%F0%EE%F0%E5%F6%EA
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\tags\index.htm
+Content Type: text/html
+
+Uri: https://www.rbc.ru/tags/?tag=%EE%F2%E4%FB%F5
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\tags\index-1.htm
+Content Type: text/html
+
+Uri: https://www.rbc.ru/tags/?tag=%EF%EB%FF%E6
+File Name: F:\StaticGenSite\MySite-Kod\vers-1\an-2-site\analitic-rus.space\tags\index-2.htm
+Content Type: text/html
+

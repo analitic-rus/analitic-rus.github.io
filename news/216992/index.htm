@@ -1,0 +1,790 @@
+<!doctype html>
+<!--[if IE 7]> <html class="ie ie87 ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="ie ie87 ie8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9" lang="en"> <![endif]-->
+<html class="no-js" lang="ru">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.css?16278206132599" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.css?162421225026345" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?16233418174771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/new_ktostroit/page_c02548ed43ab32d572f6789af054e9a1/page_c02548ed43ab32d572f6789af054e9a1_v1.css?1632581954566" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/new_ktostroit/template_10a02c81913f9a0cd1b3ef35aeae39bd/template_10a02c81913f9a0cd1b3ef35aeae39bd_v1.css?16325819543570" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.css?162782054823085" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1632581922565340"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'KTOSTROIT_','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1633268408','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'ca99a8d2eaa60cdc1a358eba854b5631'});</script>
+
+
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?162334180393637"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.js?1624212250109107"></script>
+<script type="text/javascript" src="/bitrix/js/main/pageobject/pageobject.js?1623341803864"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_window.js?162334180398371"></script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/new_ktostroit/components/v2/news.market.detail/KS_v2/style.css','/bitrix/components/v4/company.top/templates/for_sidebar/style.css','/bitrix/templates/new_ktostroit/styles.css']);</script>
+<meta property="og:title" content="«Северо-Запад Инвест» хочет финансировать строительство инфраструктуры сестрорецкого намыва самостоятельно" />
+<meta property="og:url" content="http://ktostroit.ru:443/news/216992/" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Компания «Северо-Запад Инвест», являющаяся инвестором строительства намыва под Сестрорецком, выразила готовность самостоятельно финансировать инженерную инфраструктуру на объекте." />
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'Найденная Вами ошибка в тексте',
+	'footer':'<b>Послать сообщение об ошибке автору?</b><br/><span style="font-size:10px;color:#7d7d7d">(ваш браузер останется на той же странице)</span>',
+	'comment':'Комментарий для автора (необязательно)',
+	'TitleForm':'Сообщение об ошибке',
+	'ButtonSend':'Отправить',
+	'LongText':'Вы выбрали слишком большой объем текста.',
+	'LongText2':'Попробуйте ещё раз.',
+	'text_ok':'Ваше сообщение отправлено.',
+	'text_ok2':'Спасибо за внимание!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "de46907a46fe94f78eff41c0244f6fa9"]); _ba.push(["host", "ktostroit.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+        <title>«Северо-Запад Инвест» хочет финансировать строительство инфраструктуры сестрорецкого намыва самостоятельно. Новости строительства</title>
+         <!--main stylesheet-->
+          <!--modernizr lib-->
+        <!--  <script src="js/vendor/modernizr-2.6.1.min.js"></script>-->
+          <!-- Le fav and touch icons -->
+        <!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</body>
+<meta charset="utf-8">
+<meta name="yandex-verification" content="ecfb5de518d85488" />
+<meta name="viewport" content="width=1204, initial-scale=1"> <!-- Вставлено по рекомендации Яндекса -->
+<meta name="apple-itunes-app" content="app-id=546261937">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Crop изображений -->
+<link href="https://unpkg.com/vue-croppa/dist/vue-croppa.min.css" rel="stylesheet" type="text/css">
+<script src="https://unpkg.com/vue-croppa/dist/vue-croppa.min.js"></script>
+<!-- -->
+
+<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" media="screen" type="text/css" href="/css/trans_unique.css?19" />
+<link rel="stylesheet" media="screen" type="text/css" href="/css/trans.css?19" />
+<link rel="stylesheet" media="screen" type="text/css" href="/css/style_speed.css?8" />
+<link rel="stylesheet" media="screen" type="text/css" href="/css/lightbox.css" />
+<link rel="stylesheet" href="/stylesheets/screen.css?10">
+<link rel="stylesheet" href="/css/flexslider.css?1" type="text/css" media="screen" />
+<link rel="stylesheet" media="screen" type="text/css" href="/css/petr.css?111" />
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link rel="stylesheet" href="/fonts/v3/font-awesome/css/font-awesome.min.css">
+
+<script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/lightbox.min.js"></script>
+<script type="text/javascript" src="/js/jquery.flexslider.js"></script>
+<!-- <script src="/js/vue.min.js"></script> -->
+<script  src = "https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/scripts.js?1327"></script>
+<script src="https://unpkg.com/current-device/umd/current-device.min.js"></script>
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="/ico/logo57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/logo72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/logo114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/logo144x144.png">
+
+<link rel="alternate" type="application/rss+xml" title="Новости строительства Северо-Запада. Санкт-Петербург, Ленинградская область." href="/rss.php" />
+<link rel="alternate" type="application/rss+xml" title="Новости строительства Северо-Запада. Санкт-Петербург, Ленинградская область." href="/upload/iblock_rss_1.xml" />
+<link rel="alternate" type="application/rss+xml" title="Новости строительства Северо-Запада. Санкт-Петербург, Ленинградская область." href="http://ktostroit.ru/news/regul/?format=rss" />
+
+
+
+<!-- Put this script tag to the <head> of your page -->
+<!--
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?82"></script>
+<script type="text/javascript">
+/*     VK.init({apiId: API_ID, onlyWidgets: true}); */
+</script>
+-->
+                <!-- <style>BODY{background-image: url('/images/adbg.jpg');}</style> -->
+    </head>
+<script src="//cdn.jsdelivr.net/npm/mobile-detect@1.4.1/mobile-detect.min.js"></script>
+<script>
+var md = new MobileDetect(window.navigator.userAgent);
+ if (md.phone()) {	//было mobile
+//     location.href = (md.mobileGrade() === 'A') ? '/mobile/' : '/lynx/';
+    let tp = window.location.pathname
+    window.location.pathname = '/mobile' + tp
+ }
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(20351083, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/20351083" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<body itemscope itemtype='http://schema.org/HomeAndConstructionBusiness'>
+<!--<script src="https://www.surveymonkey.com/jsPop.aspx?sm=athhpItGxD1vGSnZVOuAjQ_3d_3d"> </script>-->
+
+<script src="/js/for_header.js?3"></script>
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+
+<!-- <a id="fullpageadvert" style="display:block;position:fixed;left:0;top:0;width:100%;height:100%;cursor:pointer;" href="http://ktostroit.ru"></a> -->
+<!-- WRAPPER -->
+<div class="_body">
+  <!--banner zone-->
+   
+
+<header> <!-- ptr перенес 21.03.2017 -->
+  <div class="wrapper">
+
+  <!-- NEW HEADER -->
+
+
+<div id="ajax-adv-search"></div>
+<div id="ajax-act-types"></div>
+<div id="ajax-del-act-type"></div>
+<div id="ajax-add-object"></div>
+
+<div id="window-all"></div>
+<div id="simple-search-cont">
+
+	<div class="simple-search">
+		<div class="simple-search-row1">
+			<div class="simple-search-row1-title">
+				Поиск по сайту
+			</div>
+			<div class="simple-search-row1-input">
+				<form id="header-simple-search" class="_header__search" action="/search/" method="get">
+					<!--<input type="search" name="q">-->
+					<input type="text" name="q" id="q1" placeholder="" data-mini="true" value="" maxlength="80">
+					<input type="hidden" name="f[]" id="f[]" value="0">
+				</form>
+			</div>
+			<div class="simple-search-row1-loupe" onclick="$('#window-all').hide();$('#simple-search-cont').hide(); $('#header-simple-search').submit(); return false;"></div>
+			<div class="simple-search-row1-close" onclick="$('#window-all').hide();$('#simple-search-cont').hide();return false;">
+				<img src="/ico/white_cross_29_29.png" alt="line" />
+			</div>
+		</div>
+		<div class="simple-search-row2" onclick="$('#adv-search').toggle();">
+			<span>расширенный поиск <img src="/ico/arrows_down_8_8.png" alt="arrow" /></span>
+		</div>
+	</div><!-- simple-search -->
+
+	<div id="adv-search">
+		<div class="adv-search-title">Расширенный поиск</div>
+		<div class="adv-search-options">
+			<form id="adv-search-form" class="_header__search" action="/search/" method="get">
+			<input type="hidden" name="q" id="q" data-mini="true" value="" />
+			<div class="adv-search-option">
+				<select name="c[]">
+					<option selected="selected"  value="s">Санкт-Петербург</option>
+					<option value="m">Москва</option>
+					<option value="0">По всей России</option>
+				</select>
+			</div>
+			<div class="adv-search-option">
+				<select name="f[]">
+					<option selected="selected" value="0">везде</option>
+					<option value="n">в новостях</option>
+					<option value="c">в каталоге компаний</option>
+					<option value="p">в каталоге объектов</option>
+					<!--<option value="v">в каталоге проектов</option>-->
+					<!--<option value="d">в каталоге продукции</option>-->
+					<option value="j">в ключевых фигурах</option>
+					<option value="l">в календаре событий</option>
+					<option value="e">в онлайн мероприятиях</option>
+					<option value="r">в рейтингах</option>
+					<option value="t">по тегам</option>
+					<!--<option value="t">в тендерах</option>-->
+				</select>
+			</div>
+			<div class="adv-search-option">
+				<div style="width:180px;" class="btn-event adv-search-submit" onclick="advSearch();return false;">
+					Начать поиск
+				</div>
+			</div>
+			</form>
+		</div>
+		<div class="adv-search-line"></div>
+		<!--<div class="adv-search-showcat" onclick="buildActTypes(); return false;">
+			<span>показать все категории <img src="/ico/arrows_down_8_8.png"></span>
+		</div>-->
+
+	<div id="adv-search-act-types-cont">
+		<div id="adv-search-act-types"></div><!-- adv-search-act-types -->
+	</div><!-- adv-search-act-types-cont -->
+		<script>buildActTypes();</script>
+	</div><!-- adv-search -->
+</div><!-- simple-search-cont -->
+
+
+
+<!-- HEADER //////////////////////////////////////////////////////////////////////////////////////////// -->
+
+<!-- <header>-->
+
+<div class="header-newks">
+
+<div class="header-fixed-width">
+
+<div class="clear_both"></div> <!-- чтобы не лезли вверх -->
+
+	<div class="width_1047">
+<div class="liniya" style="margin-top:3px;"><!--logo-->
+<a class="_header__logo" href="/" itemprop='url' >
+<img src="/images/ks_logo_197_58.png" alt="" width="197" height="58" itemprop='logo' itemscope itemtype='http://schema.org/ImageObject'>
+<span class="name" itemprop="name">КтоСтроит.ру</span>
+<span class="name" itemprop="description">Единый строительный портал Северо-Запада</span>
+</a></div>
+
+    <a href="/o-nas">
+        <div class="liniya menu_onas"><!-- newspaper -->
+                <img src="/ico/o_nas.svg" alt="Line">
+        </div>
+    </a>
+<div class="liniya menu_onas_txt"><!-- newspaper -->
+	<div style="margin-top:0;" class="ksv2-header-link" onclick="document.location.href='/o-nas/'">
+		О нас
+	</div>
+</div>
+<div class="liniya menu_gazeta"><!-- newspaper -->
+<img src="/ico/newspaper_24_22.png" alt="newspaper" /></div>
+
+<div class="liniya menu_gazeta_txt"><!-- newspaper -->
+	<div style="margin-top:0;" class="ksv2-header-link" onclick="document.location.href='/archive/'">
+		Газета
+	</div>
+</div>
+
+<div class="liniya" style="width:1px;padding-top:20px;"><!-- vertical line -->
+<img src="/ico/vertical_line_1_39.png" alt="line" /></div>
+
+<script type="text/javascript">function showHideHeader(){$( ".old_header_div" ).toggle();}</script>
+<div class="liniya" style="width:21px;padding-top:22px;padding-left:12px;"><!-- date -->
+<img src="/ico/date_21_22.png" onclick="showHideHeader()" alt="date" /></div>
+
+<div class="liniya add_company"><!-- newspaper -->
+03.10.2021</div>
+
+<div class="liniya add_company_1"><!-- add company 275-->
+<img src="/ico/add_company_19_22.png" alt="line" /></div>
+
+	
+<div class="liniya add_company_2">
+	<div class="ksv2-header-link" onclick="document.location.href='/reg/?company_id=new'">
+		Добавить компанию
+	</div>
+</div>
+
+<div class="liniya cabinet_1"><!-- 190  width:197px; -->
+	</div>
+
+<div class="liniya header_exit"><!-- vertical line -->
+<img src="/ico/vertical_line_1_39.png" alt="line" /></div>
+
+ 
+<!--login area just ENTER-->
+
+<div class="liniya" style="width:22px;padding-top:22px;padding-left:17px;opacity: 0.3;"><!-- enter -->
+<img src="/ico/enter_23_22.png"></div>
+<div class="liniya" style="width:75px;padding-top:24px;padding-left:-2px;">
+
+<div class="liniya" style="width:75px;text-align:left;">
+	<div style="margin-top:0;margin-left:25px;" class="ksv2-header-link" onclick="document.location.href='/enter/'">
+		Войти
+	</div>
+</div> 
+
+
+
+</div>
+
+<script>
+ $('.newks-text-link-enter').click(function(){
+	window.location.href = '/enter/';
+   });
+</script>
+
+	</div><!-- 1044 -->
+<div class="liniya header_saerch_1" onclick="$('#window-all').show();$('#simple-search-cont').show();return false;" ><!-- search width:124px; -->
+	<table>
+		<tr>
+			<td>
+				<div class="header_search_2">
+					<img src="/ico/search_22_22.png" alt="search" />
+				</div>
+			</td>
+			<td>
+				<div class="newks-text-link newks-text-link-search header_search_3">
+					Поиск
+				</div>
+			</td>
+		</tr>
+	</table>
+</div><!-- search -->
+
+
+<div class="clear_both"> </div> <!-- чтобы ничего не влезало снизу -->
+<style>
+    .test_menu {
+        background-color: #f9f9f9;
+        color: #4983c4;
+    }
+</style>
+</div><!-- header-fixed-width -->
+
+</div><!-- header-newks -->
+
+<div id="menu_ptr">
+<div class="menu-1_ptr">
+    <div class="menu-1_ul_ptr">
+        <ul id="menu-1_ptr">
+            <li class="li_menu1" v-bind:class="{test_menu:tm[1]}" @mouseover="mouseOver(1)" @mouseout="mouseOut">
+                <div class="cscv cscv0" v-bind:style="activColor"> </div>
+                <a href="/news/">НОВОСТИ</a>
+            </li>
+            <li class="li_menu1" v-bind:class="{test_menu:tm[2]}" @mouseover="mouseOver(2)" @mouseout="mouseOut">
+                <div class="cscv cscv1" v-bind:style="activColor"> </div>
+                <a href="/articles/">СТАТЬИ</a>
+            </li>
+            <li class="li_menu1" v-bind:class="{test_menu:tm[3]}" @mouseover="mouseOver(3)" @mouseout="mouseOut">
+                <div class="cscv cscv2"  v-bind:style="activColor"> </div>
+                <a href="/catalog/">КОМПАНИИ</a>
+            </li>
+            <li class="li_menu1" v-bind:class="{test_menu:tm[4]}" @mouseover="mouseOver(4)" @mouseout="mouseOut">
+                <div class="cscv cscv3" v-bind:style="activColor"> </div>
+                <a href="/exhibition/">ОНЛАЙН–ВЫСТАВКИ</a>
+            </li>
+            <li class="li_menu1" v-bind:class="{test_menu:tm[5]}" @mouseover="mouseOver(5)" @mouseout="mouseOut">
+                <div class="cscv cscv4" v-bind:style="activColor"> </div>
+                <a href="/calendar/">КАЛЕНДАРЬ</a>
+            </li>
+            <li class="li_menu1" v-bind:class="{test_menu:tm[6]}" @mouseover="mouseOver(6)" @mouseout="mouseOut">
+                <div class="cscv cscv5" v-bind:style="activColor"> </div>
+                <a href="/personalities/">КЛЮЧЕВЫЕ ФИГУРЫ</a>
+            </li>
+            <li class="li_menu1" v-bind:class="{test_menu:tm[7]}" @mouseover="mouseOver(7)" @mouseout="mouseOut">
+                <div class="cscv cscv6" v-bind:style="activColor"> </div>
+                <a href="/items/">ТЕХНОЛОГИИ</a>
+            </li>
+        </ul>
+        <div class="lineSs">
+            <a href="https://vk.com/ktostroit" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="21px" version="1.1" viewBox="0 0 100 125" xmlns:xlink="http://www.w3.org/1999/xlink" class="svgImgSs Vk">
+                    <g id="Слой_x0020_1"><metadata id="CorelCorpID_0Corel-Layer"/>
+                        <path class="fil0" d="M0 0l57 0c19,0 35,9 35,28 0,15 -6,21 -17,28 1,1 7,3 9,4 4,2 6,3 8,6 7,6 8,12 8,23 0,24 -23,36 -46,36l-54 0 0 -125zm31 33l0 16c15,0 28,2 28,-14 0,-15 -15,-12 -28,-12l0 10zm0 69c16,0 36,3 36,-15 1,-19 -20,-16 -36,-16l0 31z"/>
+                    </g>
+                </svg>
+             </a>
+            <a href="https://www.facebook.com/ktostroit.ru" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="21px" version="1.1"  class="svgImgSs f" viewBox="0 0 15 30" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <path class="fil0" d="M0 10l3 0 0 -1 0 -2 0 0c0,-1 0,-3 1,-5 1,-1 3,-2 5,-2 4,0 6,1 6,1l-1 4c0,0 -2,0 -3,0 -1,0 -2,0 -2,1l0 1 0 2 0 1 5 0 0 4 -5 0 0 16 -6 0 0 -16 -3 0 0 -4z" />
+                </svg>
+            </a>
+            <a href="https://twitter.com/ktostroitru" target="_blank">
+                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="21px" version="1.1"  class="svgImgSs t" viewBox="0 0 8 7" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g id="Слой_x0020_1"><metadata id="CorelCorpID_0Corel-Layer"/>
+                        <g id="_656432780400">
+                           <path class="fil0" d="M8 1c0,0 0,0 -1,0 1,0 1,0 1,-1 0,0 -1,0 -1,1 0,-1 -1,-1 -1,-1 -1,0 -2,1 -2,2 0,0 0,0 0,0 -1,0 -3,-1 -3,-2 -1,1 -1,1 -1,1 0,1 1,1 1,2 0,0 0,0 -1,-1 0,0 0,0 0,0 0,1 1,2 2,2 0,0 -1,0 -1,0 0,0 0,0 0,0 0,1 1,1 2,1 -1,1 -2,1 -3,1 0,0 0,0 0,0 1,1 2,1 3,1 3,0 5,-3 5,-5 0,0 0,0 0,0 0,-1 0,-1 0,-1z"/>
+                       </g>
+                   </g>
+               </svg>
+           </a>
+        </div>
+    </div>
+</div>
+<!--                                     -->
+</div>
+<script src="/js/app.js"></script>
+<!--                                                                                 /Top Memu  -->
+</header>
+
+  <!-- END NEW HEADER -->
+
+	<!-- CONTENT AREA -->
+	 <div class="_contentArea" role="main">
+
+
+
+
+
+<div class="_contentArea__mainColumn">
+
+<article class="js-mediator-article nd_article">
+    <div class="nd_news_header">
+        <div class="nd_cName"><a href="/news/category//"></a></div>
+        <h1 class="nd_h1">«Северо-Запад Инвест» хочет финансировать строительство инфраструктуры сестрорецкого намыва самостоятельно</h1>
+    </div>
+    <div class="nd_dt">
+        <img src="/ico/watch_10_10.png" align="middle">&nbsp;&nbsp;
+        <span style="font-size:14px;color:#909090;">07 марта 2014, 12:59</span>
+    </div>
+                        <div class="nd_text_out">Компания «Северо-Запад Инвест», являющаяся инвестором строительства намыва под Сестрорецком, выразила готовность самостоятельно финансировать инженерную инфраструктуру на объекте.</div>
+        
+            
+            <div class="nd_text_out">
+<div style="text-align: justify;">Компания &laquo;Северо-Запад Инвест&raquo;, являющаяся инвестором строительства намыва под Сестрорецком, выразила готовность самостоятельно финансировать инженерную инфраструктуру на объекте.</div>
+
+<div style="text-align: justify;">
+  <br />
+</div>
+
+<div style="text-align: justify;">Инвестор подготовил и передал в Смольный дорожную карту, в которой указана та модель развития инфраструктуры, которую он предполагает реализовывать.</div>
+
+<div style="text-align: justify;">
+  <br />
+</div>
+
+<div style="text-align: justify;">В компании надеются, что к началу апреля соответствующие соглашения с правительством Петербурга будут достигнуты.</div>
+
+<div style="text-align: justify;">
+  <br />
+</div>
+</div>
+
+    
+    <div class="row nd_ssicon">
+		<div class="col-md-8">
+                    </div>
+		<div class="col-md-4"><span class="news_share">Поделиться:</span>		<div class="api-yashare" style="margin:15px 0">
+	<script src="https://yastatic.net/share2/share.js" defer="defer" charset="utf-8"></script>
+	<div id="bx_2465239627_1"
+					data-services="odnoklassniki,facebook,vkontakte,twitter"
+							data-size="m"
+											data-lang="ru"
+				
+										 
+		 		  class="ya-share2"></div>
+</div>		</div>
+    </div>
+    <!---------------------------------------------------------------->
+    <div class="detail_arrows">
+                    <a href="/news/216993/">
+                <i class="fa fa-arrow-left" aria-hidden="true"></i>
+            </a>
+                            <a href="/news/216990/">
+                <i class="fa fa-arrow-right" aria-hidden="true"></i>
+            </a>
+            </div>
+    <!---------------------------------------------------------------->
+    <div id="active_tags">
+                <div v-if="isWait" class="loading_articles">
+			<h1><i class="fa fa-spinner" aria-hidden="true"></i> {{articles.header}}</h1>
+		</div>
+        <h2 class="loading_articles" v-else>{{results}}</h2>
+        <div class="row arcticle_block" v-for="article in articles.list">
+			<a v-bind:href="article.link">
+				<div class="col-md-12">
+					<span>{{article.cName}}</span><div class="articleDate"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{article.DATE.date}}</div>
+					<h3 class="articleH3">{{article.NAME}}</h3>
+					<p v-html="article.txtLead"></p>
+				</div>
+			</a>
+		</div>
+    </div>
+<!---------------------------------------------------------------->
+</article>
+<style>
+    .once_tag:hover{
+        cursor: pointer;
+        color: #f1f0f0;
+        background-color: #558ac6;
+    }
+    .once_tag {
+        padding: 0.2em 0.3em;
+        margin: 0.2em;
+        background-color: #f1f0f0;
+        font-size: 1.2em;
+        border: 1px solid #558ac6;
+        display: block;
+        border-radius: 3px;
+        float: left;
+    }
+</style>
+<script>
+var app2 = new Vue({
+	el: '#active_tags',
+	http: {
+		emulateJSON: true,
+		emulateHTTP: true
+	},
+	data: {
+		isWait: false,
+        articles: {header: "Ищу...",list: []},
+        pageNum: 1,
+        results: 'По теме'
+    },
+    methods:{
+        getListTags: function(){
+			if(!this.isWait){
+				this.isWait = true
+				this.$http.get('/articles/ob.php?func=getListTags&tag=' + this.searchTag + '&page=' + this.pageNum)
+				.then(function(response){
+//					console.log(response.body)
+					if(response.body.length > 0){
+						this.articles.list = this.articles.list.concat(response.body)
+                        this.results =  'По тегу «' + this.searchTag + '»'
+                    }
+					else
+						this.nextPage = false
+					this.isWait = false
+				})
+				.catch(function(err){
+					console.log(err)
+				})
+			}
+		},
+        tagClick: function(event){
+			this.nextPage = true
+			this.pageNum = 1
+			this.articles.list = []
+			this.func_lists = this.getListTags
+			this.searchTag = event.target.innerText.trim()
+			this.getListTags()
+		}
+    },
+    created: function(){
+        this.arTags = []
+        var elems = document.getElementsByClassName('once_tag');
+        this.search_str = ''
+        for(let i=0; i < elems.length; i++){
+            if(i)this.search_str += ' || '
+            this.search_str += '%' + elems[i].innerHTML.trim() + '%'
+        }
+        if(!this.isWait){
+            this.isWait = true
+            this.$http.get('/articles/ob.php?func=poteme&tags=' + this.search_str)
+            .then(function(response){
+                if(response.body.length > 0){
+                    this.articles.list = response.body
+                    this.results = 'По теме'
+                }
+                this.isWait = false
+            })
+            .catch(function(err){
+                console.log(err)
+            })
+        }
+	}
+});
+</script>
+<!-- Медиатор для Бурковской -->
+<script id="js-mpf-mediator-init" data-counter="2819611" data-adaptive="true">!function(e){function t(t,n){if(!(n in e)){for(var r,a=e.document,i=a.scripts,o=i.length;o--;)if(-1!==i[o].src.indexOf(t)){r=i[o];break}if(!r){r=a.createElement("script"),r.type="text/javascript",r.async=!0,r.defer=!0,r.src=t,r.charset="UTF-8";;var d=function(){var e=a.getElementsByTagName("script")[0];e.parentNode.insertBefore(r,e)};"[object Opera]"==e.opera?a.addEventListener?a.addEventListener("DOMContentLoaded",d,!1):e.attachEvent("onload",d):d()}}}t("//top-fwz1.mail.ru/js/code.js","_tmr"),t("//mediator.imgsmail.ru/2/mpf-mediator.min.js","_mediator")}(window);</script>
+<!-- /Медиатор для Бурковской -->
+
+
+    <a href="/news/" title="Все новости">
+	    <div class="v4-link">
+            <span class="colorSiteBlue">Все новости</span>&nbsp;<img src="/ico/text_arrow_14_8.png" style="vertical-align: middle;">
+        </div>
+    </a>
+
+</div> <!-- _contentArea__mainColumn -->
+
+<!--sidebar-->
+<aside class="_contentArea__aside" itemscope itemtype='http://schema.org/WPSideBar'>
+<div class="v4-sidebar">
+    <div class='partner_banner'><a href="https://doveriekonkurs.ru/" target="_blank" ><img alt="" title="" src="/upload/rk/24c/poarg7z4krsxgpvq56uws6l7lxix7ygx.png" width="270" height="91" style="border:0;" /></a></div>        
+    <div id="news_company"  class="block_main block_sidebar">
+        <div class="block_header">
+            <a href="/forms/podpiska-na-digest/">
+                <h3 class="klfigi_1"><i class="fa fa-envelope-o" aria-hidden="true"></i>Дайджест новостей</h3>
+            </a>
+        </div>
+        <div class="v3_subscribe">Ежедневно мы собираем все главные новости строительного рынка СПб и ЛО и отправляем нашим читателям. Подпишитесь на дайджест новостей и будьте в курсе событий!</div>
+        <a href="/forms/podpiska-na-digest/">
+            <div class="link_see_all">
+                Подписаться
+            </div>
+        </a>
+    </div>
+    <script>var act_type_id = "0";</script><!-- company.top -->
+<div class="block_main block_sidebar">
+    <div class="block_header">
+		<a href="/catalog/" title="Посмотреть все компании">
+			<h3 class="klfigi_1"><i class="fa fa-id-card-o" aria-hidden="true"></i>Каталог компаний</h3>
+		</a>
+	</div>
+	<div class="block_lenta">
+					<a href="/catalog/company/294137/" title=" МКМ СТРОЙ">
+				<div class="company_block">
+					<div class="company_header_block">
+						<img src="https://ktostroit.ru/upload/resize_cache/iblock/701/100_100_1/701e08e68134310e39a6847a47062220.png">
+						<div class="company_name"> МКМ СТРОЙ</div>
+					</div>
+					<div class="clearLeft"></div>
+					<div class="company_txtPreview">
+						Компания «МКМ Строй» предлагает пластиковые окна, остекление лоджии и балкона, перегородки - ПВХ и алюминий, ...					</div>
+				</div>
+			</a>
+					<a href="/catalog/company/275359/" title=" Сварка">
+				<div class="company_block">
+					<div class="company_header_block">
+						<img src="https://ktostroit.ru/upload/resize_cache/iblock/c68/100_100_1/c68538e67563960f34ed2e15bf2999aa.png">
+						<div class="company_name"> Сварка</div>
+					</div>
+					<div class="clearLeft"></div>
+					<div class="company_txtPreview">
+						 Компания «Сварка» реализует сварочные аппараты, расходные материалы, сопутствующий инструмент и ...					</div>
+				</div>
+			</a>
+					<a href="/catalog/company/276447/" title=" Оптима Лифт">
+				<div class="company_block">
+					<div class="company_header_block">
+						<img src="https://ktostroit.ru/upload/resize_cache/iblock/472/100_100_1/4725e9ea899067c49e9cdcc84ebd0b96.jpg">
+						<div class="company_name"> Оптима Лифт</div>
+					</div>
+					<div class="clearLeft"></div>
+					<div class="company_txtPreview">
+						ООО «Оптима Лифт» осуществляет свою деятельность с 2002 года и специализируется на следующих направлениях – ...					</div>
+				</div>
+			</a>
+					<a href="/catalog/company/303244/" title=" УИП">
+				<div class="company_block">
+					<div class="company_header_block">
+						<img src="https://ktostroit.ru/upload/resize_cache/iblock/46f/100_100_1/46fc28f30eefab8122a84e14388acf4d.png">
+						<div class="company_name"> УИП</div>
+					</div>
+					<div class="clearLeft"></div>
+					<div class="company_txtPreview">
+						1.&nbsp;&nbsp;&nbsp;&nbsp;Экспертиза и диагностика поверхностей для проведения гидроизоляционных работ
+2.					</div>
+				</div>
+			</a>
+					<a href="/catalog/company/253332/" title=" Т-Траффик">
+				<div class="company_block">
+					<div class="company_header_block">
+						<img src="https://ktostroit.ru/upload/resize_cache/iblock/217/100_100_1/217c1c820de62056f12bd6a073e344bd.jpg">
+						<div class="company_name"> Т-Траффик</div>
+					</div>
+					<div class="clearLeft"></div>
+					<div class="company_txtPreview">
+						Компания «Т-Траффик» внедряет интеллектуальные транспортные системы в области автоматизированных систем ...					</div>
+				</div>
+			</a>
+			</div>
+	<a href="/catalog/" title="Посмотреть все компании">
+		<div class="link_see_all">
+			Посмотреть все
+		</div>
+	</a>
+</div>
+<style>
+</style>
+</div>
+</aside>
+</div><!--END contentArea -->
+</div><!-- wrapper -->
+<div class="footer_helper"></div>
+</div><!-- END page-body -->
+
+<!-- FOOTER -->
+<footer class="_footer sp_footer">
+    <div class="container center-block" style="text-align-last: center;">
+        <div class="row FontSizeInitial">
+            <div class="col-md-1"></div>
+            <div class="col-md-4">
+                <ul class="rekl_footer">
+                    <li>©&nbsp;2021&nbsp;«Ктостроит.ру»</li>
+                    <li>Единый&nbsp;строительный&nbsp;портал</li>
+                    <li>
+                        <div class="foo_social">
+                            <a href="https://vk.com/ktostroit" target="_blank">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="21px" version="1.1" viewBox="0 0 100 125" xmlns:xlink="http://www.w3.org/1999/xlink" class="svgImgSs Vk">
+                                    <g id="Слой_x0020_1"><metadata id="CorelCorpID_0Corel-Layer"/>
+                                        <path class="fil0" d="M0 0l57 0c19,0 35,9 35,28 0,15 -6,21 -17,28 1,1 7,3 9,4 4,2 6,3 8,6 7,6 8,12 8,23 0,24 -23,36 -46,36l-54 0 0 -125zm31 33l0 16c15,0 28,2 28,-14 0,-15 -15,-12 -28,-12l0 10zm0 69c16,0 36,3 36,-15 1,-19 -20,-16 -36,-16l0 31z"/>
+                                    </g>
+                                </svg>
+                             </a>
+                            <a href="https://www.facebook.com/ktostroit.ru" target="_blank">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="21px" version="1.1"  class="svgImgSs f" viewBox="0 0 15 30" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <path class="fil0" d="M0 10l3 0 0 -1 0 -2 0 0c0,-1 0,-3 1,-5 1,-1 3,-2 5,-2 4,0 6,1 6,1l-1 4c0,0 -2,0 -3,0 -1,0 -2,0 -2,1l0 1 0 2 0 1 5 0 0 4 -5 0 0 16 -6 0 0 -16 -3 0 0 -4z" />
+                                </svg>
+                            </a>
+                            <a href="https://twitter.com/ktostroitru" target="_blank">
+                                <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="21px" version="1.1"  class="svgImgSs t" viewBox="0 0 8 7" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <g id="Слой_x0020_1"><metadata id="CorelCorpID_0Corel-Layer"/>
+                                        <g id="_656432780400">
+                                           <path class="fil0" d="M8 1c0,0 0,0 -1,0 1,0 1,0 1,-1 0,0 -1,0 -1,1 0,-1 -1,-1 -1,-1 -1,0 -2,1 -2,2 0,0 0,0 0,0 -1,0 -3,-1 -3,-2 -1,1 -1,1 -1,1 0,1 1,1 1,2 0,0 0,0 -1,-1 0,0 0,0 0,0 0,1 1,2 2,2 0,0 -1,0 -1,0 0,0 0,0 0,0 0,1 1,1 2,1 -1,1 -2,1 -3,1 0,0 0,0 0,0 1,1 2,1 3,1 3,0 5,-3 5,-5 0,0 0,0 0,0 0,-1 0,-1 0,-1z"/>
+                                       </g>
+                                   </g>
+                               </svg>
+                           </a>
+                    </div>
+                </li>
+                    <li><img src="/upload/logo/16++.svg" alt=""></li>
+                </ul>
+
+            </div>
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-4">
+                <ul class="rekl_footer fjcfe">
+                    <li><a class="kiforkaa" href="/o-nas/" title="о нас">О нас</a></li>
+                    <li><a class="kiforkaa" href="/contacts/" title="контактная информация">Контактная информация</a></li>
+                    <li><a class="kiforkaa" href="/reklama/" title="реклама на сайте">Реклама на сайте</a></li>
+					<li><a class="kiforkaa" href="/about/terms.php" title="Политика конфиденциальности">Политика конфиденциальности</a></li>
+                </ul>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+    </div>
+<p id="back-top"><a href="#top"><span></span>Наверх</a></p>
+</footer>
+<!-- END FOOTER -->
+<script>
+
+	var pathname = window.location.pathname;
+	if (pathname == '/sales' || pathname == '/sales/') {
+		jQuery('.footad').hide();
+	}
+
+	if ($.cookie('footadVisibility') !== undefined
+		&& $.cookie('footadVisibility') === 'hidden') {
+
+		// If a cookie that stores the visibility
+		// of the notice was set and it says 'hidden', hide the notice
+		jQuery('.footad').hide();
+	}
+
+	jQuery('.footad_close').click(function () {
+		$.cookie('footadVisibility', 'hidden');
+		jQuery('.footad').fadeToggle('slow');
+	});
+</script>
+
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=1245008" type="text/javascript"></script>
+<!---->
+<!---->
+<!---->
+
+<!--Логин в Метрике-->
+</body>
+</html>
